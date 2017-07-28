@@ -1,0 +1,261 @@
+[
+    {
+        "value": 2225,
+        "name": "Abuse of Authority",
+        "path": "Abuse of Authority",
+        "children": [
+            {
+                "value": 398,
+                "name": "Threat of arrest",
+                "path": "Abuse of Authority/Threat of arrest"
+            },
+            {
+                "value": 360,
+                "name": "Stop",
+                "path": "Abuse of Authority/Stop"
+            },
+            {
+                "value": 337,
+                "name": "Refusal to provide name/shield number",
+                "path": "Abuse of Authority/Refusal to provide name/shield number"
+            }
+            {
+                "value": 234,
+                "name": "Search (of person)",
+                "path": "Abuse of Authority/Search (of person)"
+            },
+            {
+                "value": 187,
+                "name": "Frisk",
+                "path": "Abuse of Authority/Frisk"
+            },
+            {
+                "value": 132,
+                "name": "Vehicle stop",
+                "path": "Abuse of Authority/Vehicle stop"
+            },
+            {
+                "value": 83,
+                "name": "Question",
+                "path": "Abuse of Authority/Question"
+            },
+            {
+                "value": 80,
+                "name": "Vehicle search",
+                "path": "Abuse of Authority/Vehicle search"
+            },
+            {
+                "value": 79,
+                "name": "Premises entered and/or searched",
+                "path": "Abuse of Authority/Premises entered and/or searched"
+            },
+            {
+                "value": 70,
+                "name": "Threat of force (verbal or physical)",
+                "path": "Abuse of Authority/Threat of force (verbal or physical)"
+            },
+            {
+                "value": 60,
+                "name": "Question and/or stop",
+                "path": "Abuse of Authority/Question and/or stop"
+            },
+            {
+                "value": 58,
+                "name": "Threat of summons",
+                "path": "Abuse of Authority/Threat of summons"
+            },
+            {
+                "value": 32,
+                "name": "Refusal to process civilian complaint",
+                "path": "Abuse of Authority/Refusal to process civilian complaint"
+            },
+            {
+                "value": 31,
+                "name": "Threat to damage/seize property",
+                "path": "Abuse of Authority/Threat to damage/seize property"
+            },
+            {
+                "value": 27,
+                "name": "Others",
+                "path": "Abuse of Authority/Others"
+            },
+            {
+                "value": 14,
+                "name": "Retaliatory summons",
+                "path": "Abuse of Authority/Retaliatory summons"
+            },
+            {
+                "value": 14,
+                "name": "Property damaged",
+                "path": "Abuse of Authority/Property damaged"
+            },
+            {
+                "value": 10,
+                "name": "Threat to notify ACS",
+                "path": "Abuse of Authority/Threat to notify ACS"
+            },
+            {
+                "value": 8,
+                "name": "Gun Drawn",
+                "path": "Abuse of Authority/Gun Drawn"
+            },
+            {
+                "value": 5,
+                "name": "Seizure of property",
+                "path": "Abuse of Authority/Seizure of property"
+            },
+            {
+                "value": 2,
+                "name": "Refusal to obtain medical treatment",
+                "path": "Abuse of Authority/Refusal to obtain medical treatment"
+            },
+            {
+                "value": 1,
+                "name": "Failure to show search warrant",
+                "path": "Abuse of Authority/Failure to show search warrant"
+            },
+            {
+                "value": 1,
+                "name": "Improper dissemination of medical info",
+                "path": "Abuse of Authority/Improper dissemination of medical info"
+            },
+            {
+                "value": 1,
+                "name": "Strip-searched",
+                "path": "Abuse of Authority/Strip-searched"
+            },
+            {
+                "value": 1,
+                "name": "Frisk and/or search",
+                "path": "Abuse of Authority/Frisk and/or search"
+            }
+
+        ]
+    },
+    {
+        "value": 886,
+        "name": "Discourtesy",
+        "path": "Discourtesy",
+        "children": [
+            {
+                "value": 725,
+                "name": "Word",
+                "path": "Discourtesy/Word"
+            },
+            {
+                "value": 114,
+                "name": "Action",
+                "path": "Discourtesy/Action"
+            },
+            {
+                "value": 29,
+                "name": "Demeanor/tone",
+                "path": "Discourtesy/Demeanor/tone"
+            },
+            {
+                "value": 17,
+                "name": "Gesture",
+                "path": "Discourtesy/Gesture"
+            },
+            {
+                "value": 1,
+                "name": "Other",
+                "path": "Discourtesy/Other"
+            }
+        ]
+    },
+    {
+        "value": 266,
+        "name": "Force",
+        "path": "Force",
+        "children": [
+            {
+                "value": 240,
+                "name": "Physical force",
+                "path": "Force/Physical force"
+            },
+            {
+                "value": 10,
+                "name": "Gun Pointed",
+                "path": "Force/Gun Pointed"
+            },
+            {
+                "value": 6,
+                "name": "Hit against inanimate object",
+                "path": "Force/Hit against inanimate object"
+            },
+            {
+                "value": 3,
+                "name": "Other",
+                "path": "Force/Other"
+            },
+            {
+                "value": 2,
+                "name": "Vehicle",
+                "path": "Force/Vehicle"
+            },
+            {
+                "value": 2,
+                "name": "Handcuffs too tight",
+                "path": "Force/Handcuffs too tight"
+            },
+            {
+                "value": 1,
+                "name": "Other blunt instrument as a club",
+                "path": "Force/Other blunt instrument as a club"
+            },
+            {
+                "value": 1,
+                "name": "Nightstick as club (incl asp & baton)",
+                "path": "Force/Nightstick as club (incl asp & baton)"
+            },
+            {
+                "value": 1,
+                "name": "Chokehold",
+                "path": "Force/Chokehold"
+            }
+        ]
+    },
+    {
+        "value": 114,
+        "name": "Offensive Language",
+        "path": "Offensive Language",
+        "children": [
+            {
+                "value": 49,
+                "name": "Race",
+                "path": "Offensive Language/Race"
+            },
+            {
+                "value": 39,
+                "name": "Ethnicity",
+                "path": "Offensive Language/Ethnicity"
+            },
+            {
+                "value": 9,
+                "name": "Gender",
+                "path": "Offensive Language/Gender"
+            },
+            {
+                "value": 6,
+                "name": "Religion",
+                "path": "Offensive Language/Religion"
+            },
+            {
+                "value": 6,
+                "name": "Other",
+                "path": "Offensive Language/Other"
+            },
+            {
+                "value": 4,
+                "name": "Sexual orientation",
+                "path": "Offensive Language/Sexual orientation"
+            },
+            {
+                "value": 1,
+                "name": "Physical disability",
+                "path": "Offensive Language/Physical disability"
+            }
+        ]
+    }
+]
