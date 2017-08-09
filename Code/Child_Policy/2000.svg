@@ -1,1 +1,238 @@
-<svg id="svg-892973281855086592" width="883" class="svg-populationPyramid" height="727.7475903320312" version="1.1" xmlns="http://www.w3.org/2000/svg"><rect class="svgBg" x="0" y="0" width="100%" height="100%" fill="#fff"></rect><g class="svgGroup" transform="translate(16.55625,16.55625)"><g class="svgTitle" style="display: block;"><text x="50%" y="0" dx="-16.55625" dy="20" text-anchor="middle" fill="#000" style="font-size: 20px; font-weight: bold;">人口金字塔</text></g><g class="mainGroup" transform="translate(0,49.489999999999995)"><g transform="translate(84.98875000000001,16.99775)"><g class="rectGroup"><rect fill="#ff6060" class="male" height="27" width="232.87333770423209" y="566" x="136.82772479576795"></rect><rect fill="#ff6060" class="male" height="27" width="289.454741032717" y="538" x="80.24632146728305"></rect><rect fill="#ff6060" class="male" height="27" width="365.15537100502115" y="510" x="4.545691494978864"></rect><rect fill="#ff6060" class="male" height="27" width="287.45699399856545" y="482" x="82.24406850143458"></rect><rect fill="#ff6060" class="male" height="27" width="270.6408819966925" y="454" x="99.06018050330755"></rect><rect fill="#ff6060" class="male" height="27" width="333.94358709253214" y="426" x="35.75747540746791"></rect><rect fill="#ff6060" class="male" height="27" width="348.6023037319678" y="398" x="21.098758768032205"></rect><rect fill="#ff6060" class="male" height="27" width="291.02229475272975" y="370" x="78.67876774727026"></rect><rect fill="#ff6060" class="male" height="27" width="231.9770569887224" y="342" x="137.72400551127762"></rect><rect fill="#ff6060" class="male" height="27" width="238.31638138001117" y="314" x="131.38468111998887"></rect><rect fill="#ff6060" class="male" height="27" width="168.04111590619274" y="286" x="201.6599465938073"></rect><rect fill="#ff6060" class="male" height="27" width="129.34032534570017" y="258" x="240.36073715429987"></rect><rect fill="#ff6060" class="male" height="27" width="116.52720766916394" y="230" x="253.1738548308361"></rect><rect fill="#ff6060" class="male" height="27" width="95.62238411871363" y="202" x="274.0786783812864"></rect><rect fill="#ff6060" class="male" height="27" width="65.74511022555191" y="174" x="303.9559522744481"></rect><rect fill="#ff6060" class="male" height="27" width="37.86006532029569" y="146" x="331.84099717970435"></rect><rect fill="#ff6060" class="male" height="27" width="19.84412648611226" y="118" x="349.8569360138878"></rect><rect fill="#ff6060" class="male" height="27" width="6.634352359030061" y="90" x="363.06671014097"></rect><rect fill="#ff6060" class="male" height="27" width="1.2647522715888044" y="62" x="368.43631022841123"></rect><rect fill="#ff6060" class="male" height="27" width="0.15063194786603162" y="34" x="369.550430552134"></rect><rect fill="#ff6060" class="male" height="27" width="0.010532503805677607" y="6" x="369.69052999619436"></rect><rect fill="#ababab" class="female" height="27" width="205.128815471826" y="566" x="369.70106250000003"></rect><rect fill="#ababab" class="female" height="27" width="259.95730158504034" y="538" x="369.70106250000003"></rect><rect fill="#ababab" class="female" height="27" width="340.55774233083616" y="510" x="369.70106250000003"></rect><rect fill="#ababab" class="female" height="27" width="270.9708933061688" y="482" x="369.70106250000003"></rect><rect fill="#ababab" class="female" height="27" width="255.57608001215442" y="454" x="369.70106250000003"></rect><rect fill="#ababab" class="female" height="27" width="316.3603059426557" y="426" x="369.70106250000003"></rect><rect fill="#ababab" class="female" height="27" width="335.7511490376186" y="398" x="369.70106250000003"></rect><rect fill="#ababab" class="female" height="27" width="276.91216834203397" y="370" x="369.70106250000003"></rect><rect fill="#ababab" class="female" height="27" width="220.61470331553357" y="342" x="369.70106250000003"></rect><rect fill="#ababab" class="female" height="27" width="227.82620045329566" y="314" x="369.70106250000003"></rect><rect fill="#ababab" class="female" height="27" width="161.013910798398" y="286" x="369.70106250000003"></rect><rect fill="#ababab" class="female" height="27" width="118.9262184546107" y="258" x="369.70106250000003"></rect><rect fill="#ababab" class="female" height="27" width="106.6509763539093" y="230" x="369.70106250000003"></rect><rect fill="#ababab" class="female" height="27" width="92.41013117777158" y="202" x="369.70106250000003"></rect><rect fill="#ababab" class="female" height="27" width="67.66196163027018" y="174" x="369.70106250000003"></rect><rect fill="#ababab" class="female" height="27" width="45.89187628447041" y="146" x="369.70106250000003"></rect><rect fill="#ababab" class="female" height="27" width="27.5218181717741" y="118" x="369.70106250000003"></rect><rect fill="#ababab" class="female" height="27" width="11.052646630967558" y="90" x="369.70106250000003"></rect><rect fill="#ababab" class="female" height="27" width="2.7677234212162034" y="62" x="369.70106250000003"></rect><rect fill="#ababab" class="female" height="27" width="0.4417437099705239" y="34" x="369.70106250000003"></rect><rect fill="#ababab" class="female" height="27" width="0.038910262024785425" y="6" x="369.70106250000003"></rect></g><g class="coverGroup"><rect x="136.82772479576795" y="566" width="438.0021531760581" height="27" fill="#fff" opacity="0"></rect><rect x="80.24632146728305" y="538" width="549.4120426177574" height="27" fill="#fff" opacity="0"></rect><rect x="4.545691494978864" y="510" width="705.7131133358573" height="27" fill="#fff" opacity="0"></rect><rect x="82.24406850143458" y="482" width="558.4278873047342" height="27" fill="#fff" opacity="0"></rect><rect x="99.06018050330755" y="454" width="526.2169620088468" height="27" fill="#fff" opacity="0"></rect><rect x="35.75747540746791" y="426" width="650.3038930351879" height="27" fill="#fff" opacity="0"></rect><rect x="21.098758768032205" y="398" width="684.3534527695864" height="27" fill="#fff" opacity="0"></rect><rect x="78.67876774727026" y="370" width="567.9344630947637" height="27" fill="#fff" opacity="0"></rect><rect x="137.72400551127762" y="342" width="452.591760304256" height="27" fill="#fff" opacity="0"></rect><rect x="131.38468111998887" y="314" width="466.14258183330685" height="27" fill="#fff" opacity="0"></rect><rect x="201.6599465938073" y="286" width="329.0550267045908" height="27" fill="#fff" opacity="0"></rect><rect x="240.36073715429987" y="258" width="248.26654380031087" height="27" fill="#fff" opacity="0"></rect><rect x="253.1738548308361" y="230" width="223.17818402307324" height="27" fill="#fff" opacity="0"></rect><rect x="274.0786783812864" y="202" width="188.0325152964852" height="27" fill="#fff" opacity="0"></rect><rect x="303.9559522744481" y="174" width="133.4070718558221" height="27" fill="#fff" opacity="0"></rect><rect x="331.84099717970435" y="146" width="83.7519416047661" height="27" fill="#fff" opacity="0"></rect><rect x="349.8569360138878" y="118" width="47.36594465788636" height="27" fill="#fff" opacity="0"></rect><rect x="363.06671014097" y="90" width="17.68699898999762" height="27" fill="#fff" opacity="0"></rect><rect x="368.43631022841123" y="62" width="4.032475692805008" height="27" fill="#fff" opacity="0"></rect><rect x="369.550430552134" y="34" width="0.5923756578365555" height="27" fill="#fff" opacity="0"></rect><rect x="369.69052999619436" y="6" width="0.04944276583046303" height="27" fill="#fff" opacity="0"></rect></g><g class="tooltipGroup" display="none" transform="translate(29.455001831054688,269.95599365234375)"><rect x="0" y="0" width="122" height="60" fill="rgba(255,255,255,.9)"></rect><text x="5" y="3" dy="15" style="font-weight: bold;">45</text><text x="5" y="21" dy="15" fill="#ff6060">male: 44484.2</text><text x="5" y="39" dy="15" fill="#ababab">female: 42526.1</text></g><g class="axis" transform="translate(0,599.1706875)"><g class="tick" transform="translate(369.70106250000003,0)" style="opacity: 1;"><line y2="6" x2="0"></line><text dy=".71em" y="9" x="0" style="text-anchor: middle;">0</text></g><g class="tick" transform="translate(262.5545334492309,0)" style="opacity: 1;"><line y2="6" x2="0"></line><text dy=".71em" y="9" x="0" style="text-anchor: middle;">20,000</text></g><g class="tick" transform="translate(155.40800439846183,0)" style="opacity: 1;"><line y2="6" x2="0"></line><text dy=".71em" y="9" x="0" style="text-anchor: middle;">40,000</text></g><g class="tick" transform="translate(48.26147534769268,0)" style="opacity: 1;"><line y2="6" x2="0"></line><text dy=".71em" y="9" x="0" style="text-anchor: middle;">60,000</text></g><path class="domain" d="M0,6V0H369.70106250000003V6"></path></g><g class="axis" transform="translate(0,599.1706875)"><g class="tick" transform="translate(369.70106250000003,0)" style="opacity: 1;"><line y2="6" x2="0"></line><text dy=".71em" y="9" x="0" style="text-anchor: middle;">0</text></g><g class="tick" transform="translate(476.84759155076915,0)" style="opacity: 1;"><line y2="6" x2="0"></line><text dy=".71em" y="9" x="0" style="text-anchor: middle;">20,000</text></g><g class="tick" transform="translate(583.9941206015383,0)" style="opacity: 1;"><line y2="6" x2="0"></line><text dy=".71em" y="9" x="0" style="text-anchor: middle;">40,000</text></g><g class="tick" transform="translate(691.1406496523074,0)" style="opacity: 1;"><line y2="6" x2="0"></line><text dy=".71em" y="9" x="0" style="text-anchor: middle;">60,000</text></g><path class="domain" d="M369.70106250000003,6V0H739.4021250000001V6"></path></g><g class="axis" transform="translate(0,0)"><g class="tick" transform="translate(0,580)" style="opacity: 1;"><line x2="-6" y2="0"></line><text dy=".32em" x="-9" y="0" style="text-anchor: end;">0</text></g><g class="tick" transform="translate(0,552)" style="opacity: 1;"><line x2="-6" y2="0"></line><text dy=".32em" x="-9" y="0" style="text-anchor: end;">5</text></g><g class="tick" transform="translate(0,524)" style="opacity: 1;"><line x2="-6" y2="0"></line><text dy=".32em" x="-9" y="0" style="text-anchor: end;">10</text></g><g class="tick" transform="translate(0,496)" style="opacity: 1;"><line x2="-6" y2="0"></line><text dy=".32em" x="-9" y="0" style="text-anchor: end;">15</text></g><g class="tick" transform="translate(0,468)" style="opacity: 1;"><line x2="-6" y2="0"></line><text dy=".32em" x="-9" y="0" style="text-anchor: end;">20</text></g><g class="tick" transform="translate(0,440)" style="opacity: 1;"><line x2="-6" y2="0"></line><text dy=".32em" x="-9" y="0" style="text-anchor: end;">25</text></g><g class="tick" transform="translate(0,412)" style="opacity: 1;"><line x2="-6" y2="0"></line><text dy=".32em" x="-9" y="0" style="text-anchor: end;">30</text></g><g class="tick" transform="translate(0,384)" style="opacity: 1;"><line x2="-6" y2="0"></line><text dy=".32em" x="-9" y="0" style="text-anchor: end;">35</text></g><g class="tick" transform="translate(0,356)" style="opacity: 1;"><line x2="-6" y2="0"></line><text dy=".32em" x="-9" y="0" style="text-anchor: end;">40</text></g><g class="tick" transform="translate(0,328)" style="opacity: 1;"><line x2="-6" y2="0"></line><text dy=".32em" x="-9" y="0" style="text-anchor: end;">45</text></g><g class="tick" transform="translate(0,300)" style="opacity: 1;"><line x2="-6" y2="0"></line><text dy=".32em" x="-9" y="0" style="text-anchor: end;">50</text></g><g class="tick" transform="translate(0,272)" style="opacity: 1;"><line x2="-6" y2="0"></line><text dy=".32em" x="-9" y="0" style="text-anchor: end;">55</text></g><g class="tick" transform="translate(0,244)" style="opacity: 1;"><line x2="-6" y2="0"></line><text dy=".32em" x="-9" y="0" style="text-anchor: end;">60</text></g><g class="tick" transform="translate(0,216)" style="opacity: 1;"><line x2="-6" y2="0"></line><text dy=".32em" x="-9" y="0" style="text-anchor: end;">65</text></g><g class="tick" transform="translate(0,188)" style="opacity: 1;"><line x2="-6" y2="0"></line><text dy=".32em" x="-9" y="0" style="text-anchor: end;">70</text></g><g class="tick" transform="translate(0,160)" style="opacity: 1;"><line x2="-6" y2="0"></line><text dy=".32em" x="-9" y="0" style="text-anchor: end;">75</text></g><g class="tick" transform="translate(0,132)" style="opacity: 1;"><line x2="-6" y2="0"></line><text dy=".32em" x="-9" y="0" style="text-anchor: end;">80</text></g><g class="tick" transform="translate(0,104)" style="opacity: 1;"><line x2="-6" y2="0"></line><text dy=".32em" x="-9" y="0" style="text-anchor: end;">85</text></g><g class="tick" transform="translate(0,76)" style="opacity: 1;"><line x2="-6" y2="0"></line><text dy=".32em" x="-9" y="0" style="text-anchor: end;">90</text></g><g class="tick" transform="translate(0,48)" style="opacity: 1;"><line x2="-6" y2="0"></line><text dy=".32em" x="-9" y="0" style="text-anchor: end;">95</text></g><g class="tick" transform="translate(0,20)" style="opacity: 1;"><line x2="-6" y2="0"></line><text dy=".32em" x="-9" y="0" style="text-anchor: end;">100</text></g><path class="domain" d="M-6,0H0V599.1706875H-6"></path></g><g><rect x="16.99775" y="1" width="50.99325" height="17" fill="#ff6060"></rect><text x="72.991" y="14.6" text-anchor="start" style="font-size: 17px; font-weight: bold;">male</text></g><g transform="translate(722.4043750000001,0)"><rect x="-50.99325" y="1" width="50.99325" height="17" fill="#ababab"></rect><text x="-55.99325" y="14.6" text-anchor="end" style="font-size: 17px; font-weight: bold;">female</text></g></g></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="svg-892973281855086592" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" viewBox="0 0 883 727.7" style="enable-background:new 0 0 883 727.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{font-family:'KozGoPr6N-Regular-83pv-RKSJ-H';}
+	.st2{font-size:20px;}
+	.st3{fill:#FF6060;}
+	.st4{fill:#ABABAB;}
+	.st5{fill:#FFFFFF;fill-opacity:0;}
+	.st6{display:none;}
+	.st7{display:inline;}
+	.st8{font-family:'Arial-BoldMT';}
+	.st9{font-size:12px;}
+	.st10{display:inline;fill:#FF6060;}
+	.st11{font-family:'ArialMT';}
+	.st12{display:inline;fill:#ABABAB;}
+	.st13{fill:none;}
+	.st14{font-size:17px;}
+</style>
+<rect class="st0" width="883" height="727.7"/>
+<g transform="translate(16.55625,16.55625)">
+	<g>
+		<text transform="matrix(1 0 0 1 428.9436 19.9999)" class="st1 st2">2000</text>
+	</g>
+	<g transform="translate(0,49.489999999999995)">
+		<g transform="translate(84.98875000000001,16.99775)">
+			<g>
+				<rect x="136.8" y="566" class="st3" width="232.9" height="27"/>
+				<rect x="80.2" y="538" class="st3" width="289.5" height="27"/>
+				<rect x="4.5" y="510" class="st3" width="365.2" height="27"/>
+				<rect x="82.2" y="482" class="st3" width="287.5" height="27"/>
+				<rect x="99.1" y="454" class="st3" width="270.6" height="27"/>
+				<rect x="35.8" y="426" class="st3" width="333.9" height="27"/>
+				<rect x="21.1" y="398" class="st3" width="348.6" height="27"/>
+				<rect x="78.7" y="370" class="st3" width="291" height="27"/>
+				<rect x="137.7" y="342" class="st3" width="232" height="27"/>
+				<rect x="131.4" y="314" class="st3" width="238.3" height="27"/>
+				<rect x="201.7" y="286" class="st3" width="168" height="27"/>
+				<rect x="240.4" y="258" class="st3" width="129.3" height="27"/>
+				<rect x="253.2" y="230" class="st3" width="116.5" height="27"/>
+				<rect x="274.1" y="202" class="st3" width="95.6" height="27"/>
+				<rect x="304" y="174" class="st3" width="65.7" height="27"/>
+				<rect x="331.8" y="146" class="st3" width="37.9" height="27"/>
+				<rect x="349.9" y="118" class="st3" width="19.8" height="27"/>
+				<rect x="363.1" y="90" class="st3" width="6.6" height="27"/>
+				<rect x="368.4" y="62" class="st3" width="1.3" height="27"/>
+				<rect x="369.6" y="34" class="st3" width="0.2" height="27"/>
+				<rect x="369.7" y="6" class="st3" width="0" height="27"/>
+				<rect x="369.7" y="566" class="st4" width="205.1" height="27"/>
+				<rect x="369.7" y="538" class="st4" width="260" height="27"/>
+				<rect x="369.7" y="510" class="st4" width="340.6" height="27"/>
+				<rect x="369.7" y="482" class="st4" width="271" height="27"/>
+				<rect x="369.7" y="454" class="st4" width="255.6" height="27"/>
+				<rect x="369.7" y="426" class="st4" width="316.4" height="27"/>
+				<rect x="369.7" y="398" class="st4" width="335.8" height="27"/>
+				<rect x="369.7" y="370" class="st4" width="276.9" height="27"/>
+				<rect x="369.7" y="342" class="st4" width="220.6" height="27"/>
+				<rect x="369.7" y="314" class="st4" width="227.8" height="27"/>
+				<rect x="369.7" y="286" class="st4" width="161" height="27"/>
+				<rect x="369.7" y="258" class="st4" width="118.9" height="27"/>
+				<rect x="369.7" y="230" class="st4" width="106.7" height="27"/>
+				<rect x="369.7" y="202" class="st4" width="92.4" height="27"/>
+				<rect x="369.7" y="174" class="st4" width="67.7" height="27"/>
+				<rect x="369.7" y="146" class="st4" width="45.9" height="27"/>
+				<rect x="369.7" y="118" class="st4" width="27.5" height="27"/>
+				<rect x="369.7" y="90" class="st4" width="11.1" height="27"/>
+				<rect x="369.7" y="62" class="st4" width="2.8" height="27"/>
+				<rect x="369.7" y="34" class="st4" width="0.4" height="27"/>
+				<rect x="369.7" y="6" class="st4" width="0" height="27"/>
+			</g>
+			<g>
+				<rect x="136.8" y="566" class="st5" width="438" height="27"/>
+				<rect x="80.2" y="538" class="st5" width="549.4" height="27"/>
+				<rect x="4.5" y="510" class="st5" width="705.7" height="27"/>
+				<rect x="82.2" y="482" class="st5" width="558.4" height="27"/>
+				<rect x="99.1" y="454" class="st5" width="526.2" height="27"/>
+				<rect x="35.8" y="426" class="st5" width="650.3" height="27"/>
+				<rect x="21.1" y="398" class="st5" width="684.4" height="27"/>
+				<rect x="78.7" y="370" class="st5" width="567.9" height="27"/>
+				<rect x="137.7" y="342" class="st5" width="452.6" height="27"/>
+				<rect x="131.4" y="314" class="st5" width="466.1" height="27"/>
+				<rect x="201.7" y="286" class="st5" width="329.1" height="27"/>
+				<rect x="240.4" y="258" class="st5" width="248.3" height="27"/>
+				<rect x="253.2" y="230" class="st5" width="223.2" height="27"/>
+				<rect x="274.1" y="202" class="st5" width="188" height="27"/>
+				<rect x="304" y="174" class="st5" width="133.4" height="27"/>
+				<rect x="331.8" y="146" class="st5" width="83.8" height="27"/>
+				<rect x="349.9" y="118" class="st5" width="47.4" height="27"/>
+				<rect x="363.1" y="90" class="st5" width="17.7" height="27"/>
+				<rect x="368.4" y="62" class="st5" width="4" height="27"/>
+				<rect x="369.6" y="34" class="st5" width="0.6" height="27"/>
+				<rect x="369.7" y="6" class="st5" width="0" height="27"/>
+			</g>
+			<g transform="translate(29.455001831054688,269.95599365234375)" class="st6">
+				<rect x="0" y="0" class="st7" width="122" height="60"/>
+				<text transform="matrix(1 0 0 1 5 18)" class="st7 st8 st9">45</text>
+				<text transform="matrix(1 0 0 1 5 36)" class="st10 st11 st9">male: 44484.2</text>
+				<text transform="matrix(1 0 0 1 5 54)" class="st12 st11 st9">female: 42526.1</text>
+			</g>
+			<g transform="translate(0,599.1706875)">
+				<g transform="translate(369.70106250000003,0)">
+					<line class="st13" x1="0" y1="0" x2="0" y2="6"/>
+					<text transform="matrix(1 0 0 1 -3.3369 17.52)" class="st11 st9">0</text>
+				</g>
+				<g transform="translate(262.5545334492309,0)">
+					<line class="st13" x1="0" y1="0" x2="0" y2="6"/>
+					<text transform="matrix(1 0 0 1 -18.3516 17.52)" class="st11 st9">20,000</text>
+				</g>
+				<g transform="translate(155.40800439846183,0)">
+					<line class="st13" x1="0" y1="0" x2="0" y2="6"/>
+					<text transform="matrix(1 0 0 1 -18.3516 17.52)" class="st11 st9">40,000</text>
+				</g>
+				<g transform="translate(48.26147534769268,0)">
+					<line class="st13" x1="0" y1="0" x2="0" y2="6"/>
+					<text transform="matrix(1 0 0 1 -18.3516 17.52)" class="st11 st9">60,000</text>
+				</g>
+				<path d="M0,6V0h369.7v6"/>
+			</g>
+			<g transform="translate(0,599.1706875)">
+				<g transform="translate(369.70106250000003,0)">
+					<line class="st13" x1="0" y1="0" x2="0" y2="6"/>
+					<text transform="matrix(1 0 0 1 -3.3369 17.52)" class="st11 st9">0</text>
+				</g>
+				<g transform="translate(476.84759155076915,0)">
+					<line class="st13" x1="0" y1="0" x2="0" y2="6"/>
+					<text transform="matrix(1 0 0 1 -18.3516 17.52)" class="st11 st9">20,000</text>
+				</g>
+				<g transform="translate(583.9941206015383,0)">
+					<line class="st13" x1="0" y1="0" x2="0" y2="6"/>
+					<text transform="matrix(1 0 0 1 -18.3516 17.52)" class="st11 st9">40,000</text>
+				</g>
+				<g transform="translate(691.1406496523074,0)">
+					<line class="st13" x1="0" y1="0" x2="0" y2="6"/>
+					<text transform="matrix(1 0 0 1 -18.3516 17.52)" class="st11 st9">60,000</text>
+				</g>
+				<path d="M369.7,6V0h369.7v6"/>
+			</g>
+			<g transform="translate(0,0)">
+				<g transform="translate(0,580)">
+					<line class="st13" x1="0" y1="0" x2="-6" y2="0"/>
+					<text transform="matrix(1 0 0 1 -15.6738 3.84)" class="st11 st9">0</text>
+				</g>
+				<g transform="translate(0,552)">
+					<line class="st13" x1="0" y1="0" x2="-6" y2="0"/>
+					<text transform="matrix(1 0 0 1 -15.6738 3.84)" class="st11 st9">5</text>
+				</g>
+				<g transform="translate(0,524)">
+					<line class="st13" x1="0" y1="0" x2="-6" y2="0"/>
+					<text transform="matrix(1 0 0 1 -22.3477 3.84)" class="st11 st9">10</text>
+				</g>
+				<g transform="translate(0,496)">
+					<line class="st13" x1="0" y1="0" x2="-6" y2="0"/>
+					<text transform="matrix(1 0 0 1 -22.3477 3.84)" class="st11 st9">15</text>
+				</g>
+				<g transform="translate(0,468)">
+					<line class="st13" x1="0" y1="0" x2="-6" y2="0"/>
+					<text transform="matrix(1 0 0 1 -22.3477 3.84)" class="st11 st9">20</text>
+				</g>
+				<g transform="translate(0,440)">
+					<line class="st13" x1="0" y1="0" x2="-6" y2="0"/>
+					<text transform="matrix(1 0 0 1 -22.3477 3.84)" class="st11 st9">25</text>
+				</g>
+				<g transform="translate(0,412)">
+					<line class="st13" x1="0" y1="0" x2="-6" y2="0"/>
+					<text transform="matrix(1 0 0 1 -22.3477 3.84)" class="st11 st9">30</text>
+				</g>
+				<g transform="translate(0,384)">
+					<line class="st13" x1="0" y1="0" x2="-6" y2="0"/>
+					<text transform="matrix(1 0 0 1 -22.3477 3.84)" class="st11 st9">35</text>
+				</g>
+				<g transform="translate(0,356)">
+					<line class="st13" x1="0" y1="0" x2="-6" y2="0"/>
+					<text transform="matrix(1 0 0 1 -22.3477 3.84)" class="st11 st9">40</text>
+				</g>
+				<g transform="translate(0,328)">
+					<line class="st13" x1="0" y1="0" x2="-6" y2="0"/>
+					<text transform="matrix(1 0 0 1 -22.3477 3.84)" class="st11 st9">45</text>
+				</g>
+				<g transform="translate(0,300)">
+					<line class="st13" x1="0" y1="0" x2="-6" y2="0"/>
+					<text transform="matrix(1 0 0 1 -22.3477 3.84)" class="st11 st9">50</text>
+				</g>
+				<g transform="translate(0,272)">
+					<line class="st13" x1="0" y1="0" x2="-6" y2="0"/>
+					<text transform="matrix(1 0 0 1 -22.3477 3.84)" class="st11 st9">55</text>
+				</g>
+				<g transform="translate(0,244)">
+					<line class="st13" x1="0" y1="0" x2="-6" y2="0"/>
+					<text transform="matrix(1 0 0 1 -22.3477 3.84)" class="st11 st9">60</text>
+				</g>
+				<g transform="translate(0,216)">
+					<line class="st13" x1="0" y1="0" x2="-6" y2="0"/>
+					<text transform="matrix(1 0 0 1 -22.3477 3.84)" class="st11 st9">65</text>
+				</g>
+				<g transform="translate(0,188)">
+					<line class="st13" x1="0" y1="0" x2="-6" y2="0"/>
+					<text transform="matrix(1 0 0 1 -22.3477 3.84)" class="st11 st9">70</text>
+				</g>
+				<g transform="translate(0,160)">
+					<line class="st13" x1="0" y1="0" x2="-6" y2="0"/>
+					<text transform="matrix(1 0 0 1 -22.3477 3.84)" class="st11 st9">75</text>
+				</g>
+				<g transform="translate(0,132)">
+					<line class="st13" x1="0" y1="0" x2="-6" y2="0"/>
+					<text transform="matrix(1 0 0 1 -22.3477 3.84)" class="st11 st9">80</text>
+				</g>
+				<g transform="translate(0,104)">
+					<line class="st13" x1="0" y1="0" x2="-6" y2="0"/>
+					<text transform="matrix(1 0 0 1 -22.3477 3.84)" class="st11 st9">85</text>
+				</g>
+				<g transform="translate(0,76)">
+					<line class="st13" x1="0" y1="0" x2="-6" y2="0"/>
+					<text transform="matrix(1 0 0 1 -22.3477 3.84)" class="st11 st9">90</text>
+				</g>
+				<g transform="translate(0,48)">
+					<line class="st13" x1="0" y1="0" x2="-6" y2="0"/>
+					<text transform="matrix(1 0 0 1 -22.3477 3.84)" class="st11 st9">95</text>
+				</g>
+				<g transform="translate(0,20)">
+					<line class="st13" x1="0" y1="0" x2="-6" y2="0"/>
+					<text transform="matrix(1 0 0 1 -29.0215 3.84)" class="st11 st9">100</text>
+				</g>
+				<path d="M-6,0h6v599.2h-6"/>
+			</g>
+			<g>
+				<rect x="17" y="1" class="st3" width="51" height="17"/>
+				<text transform="matrix(1 0 0 1 72.991 14.6)" class="st8 st14">male</text>
+			</g>
+			<g transform="translate(722.4043750000001,0)">
+				<rect x="-51" y="1" class="st4" width="51" height="17"/>
+				<text transform="matrix(1 0 0 1 -109.857 14.6)" class="st8 st14">female</text>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
