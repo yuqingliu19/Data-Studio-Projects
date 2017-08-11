@@ -1,6 +1,6 @@
 # How the One-Child Policy Changed China?
 
-In October 2015, China decided to overturn its decades-old one-child policy and allow couples across the country to have two children. The one-child policy was introduced in 1979 when the government feared a rapid increase in population size after the baby boom of the 1950s and 1960s. 
+In October 2015, China decided to overturn its decades-old one-child policy and allow couples across the country to have two children. The one-child policy was introduced in 1978 when the government feared a rapid increase in population size after the baby boom of the 1950s and 1960s. 
 
 China's One Child Policy most strictly applies to Han Chinese living in urban areas of the country. It does not apply to ethnic minorities throughout the country. Han Chinese represent more than 91% of the Chinese population. Just over 51% of China's population lives in urban areas. In rural areas, Han Chinese families can apply to have a second child if the first child is a girl.
 
