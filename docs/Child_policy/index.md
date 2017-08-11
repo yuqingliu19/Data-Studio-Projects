@@ -33,7 +33,7 @@ About 1.45 million couples had applied to have a second child under the relaxed 
 
 
 
-### Late Baby Boom
+### Late Baby Boom?
 
 Though the birth rate may be higher than it was a year ago, China has been below replacement rates for the past 20 years. 
 
