@@ -17,8 +17,7 @@ The recent peak total fertility rate for Chinese women was in the late 1960s, wh
 
 ### The Changing Age
 
-From 1960 through the 1980s, teenager or younger children constituted a larger percentage of China’s expanding population than any other age group. 
-By 2050, above 60-year-olds will form the largest share.
+From 1960 through the 1980s, teenager or younger children constituted a larger percentage of China’s expanding population than any other age group. By 2050, above 60-year-olds will form the largest share.
 
 
 ![](Untitled-19.png)
@@ -39,4 +38,4 @@ About 1.45 million couples had applied to have a second child under the relaxed 
 Though the birth rate may be higher than it was a year ago, China has been below replacement rates for the past 20 years. 
 
 
-![](Untitled-17.png)
+![](Untitled-20.png)
