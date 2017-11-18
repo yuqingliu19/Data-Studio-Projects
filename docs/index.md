@@ -29,7 +29,7 @@ I know some coding, some data, and some journalism.
 
   Tools: d3.js
 
-* [The 21st Century's 100 greatest films]({{ leaflet_map_critic.html }}/Movie_Project): Here is a project about critics and directors. 
+* [The 21st Century's 100 greatest films]({{ site.url }}/Movie_Project): I scraped most of information about over hundreds of critics and directors from BBC and IMDB website, put them and films in the map.
 
   Tools: Python, Web Scraping, JSON, Geopandas, Leaflet
   
