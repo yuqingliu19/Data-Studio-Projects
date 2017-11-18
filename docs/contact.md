@@ -1,7 +1,7 @@
 ---
 
-title: About me
-permalink: /About
+title: Contact
+permalink: /Contact
 
 ---
 * [Code](https://github.com/yuqingliu19)
