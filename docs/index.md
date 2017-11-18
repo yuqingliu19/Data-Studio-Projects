@@ -4,7 +4,7 @@
 
 ---
 
-### Hi, I'm Yuqing Liu
+## Hi, I'm Yuqing Liu
 
 I am currently a data journalism student at the [Lede Program](http://ledeprogram.com), Columbia Journalism School. 
 I know some coding, some data, and some journalism.
