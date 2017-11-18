@@ -1,6 +1,6 @@
 ---
 
-title: contact
+title: Contact
 
 
 ---
