@@ -1,4 +1,4 @@
-### how much Apple's stock price was over time？
+### How much Apple's stock price was over time？
 
 ![](d33.png)
 
