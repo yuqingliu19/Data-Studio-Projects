@@ -17,7 +17,7 @@ I know some coding, some data, and some journalism.
 
   Tools: Python, d3.js
 
-* [Fertility and Middle class income]({{ site.url }}/D3_1): Small multiples
+* [Middle class income]({{ site.url }}/D3_1): Small multiples
   
   Tools: d3.js
 

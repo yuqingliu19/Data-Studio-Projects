@@ -4,6 +4,6 @@ title: Contact me
 
 ---
 
-* [Twitter](http://twitter.com/blahblah)
-* [user@example.com](mailto:user@example.com)
-* [Instagram](http://instagram.com/blahblah)
+* [Twitter](https://twitter.com/yuqingliu19)
+* [Gmail](cheerecho.l@gmail.com)
+* [Instagram](https://www.instagram.com/yuqing_19)
