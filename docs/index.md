@@ -9,19 +9,29 @@
 This is my site of projects for the [Lede Program](http://ledeprogram.com)
 
 * [One-Child policy]({{ site.url }}/Child_policy): Here is a project about China's one-child policy. 
-Tools: Python, Illustrator
+  
+  Tools: Python, Illustrator
 
-* [Wildfire]({{ site.url }}/wildfire): Here is a D3.js project about wildfire since 1984 in US.
-Tools: Python, d3.js
+* [Wildfire]({{ site.url }}/wildfire): Here is a project about wildfire since 1984 in US. 
 
-* [Wildfire]({{ site.url }}/D3_1): Here is a D3.js project about wildfire since 1984 in US.
-Tools: d3.js
+  Tools: Python, d3.js
 
-* [Wildfire]({{ site.url }}/D3_2): Here is a D3.js project about wildfire since 1984 in US.
-Tools: d3.js
+* [Fertility and Middle class income]({{ site.url }}/D3_1): Small multiples
+  
+  Tools: d3.js
 
-* [Wildfire]({{ site.url }}/D3_3): Here is a D3.js project about wildfire since 1984 in US.
-Tools: d3.js
+* [Temperature around the world]({{ site.url }}/D3_2): Radials and more small multiples
 
-* [The 21st Century's 100 greatest films]({{ site.url }}/Movie_Project): Here is a D3.js project about wildfire since 1984 in US.
-Tools: Python, Web Scraping, JSON, Geopandas, Lefleat
+  Tools: d3.js
+
+* [stock price and drug overdose deaths]({{ site.url }}/D3_3)
+
+  Tools: d3.js
+
+* [The 21st Century's 100 greatest films]({{ site.url }}/Movie_Project): Here is a project about critics and directors. 
+
+  Tools: Python, Web Scraping, JSON, Geopandas, Leaflet
+  
+* [NuclearSite_map]({{ site.url }}/NuclearSite_map): Here is a project about Nuclear Waste repository.
+
+  Tools: ArcGIS
