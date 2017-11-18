@@ -8,7 +8,7 @@
 
 I am currently a data journalism student at the [Lede Program](http://ledeprogram.com), Columbia Journalism School. 
 
-I know some coding and some data. Here are some projects and works during the program.
+I know some coding and some data. Here are my projects and works during the program.
 
 
 
