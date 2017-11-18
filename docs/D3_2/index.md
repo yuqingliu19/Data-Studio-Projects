@@ -2,7 +2,7 @@
 
 ### Fixed-wedge size pie, or radial bar graph
 
-<p>Dataset is <code>data/ny-temps.csv</code></p>
+Dataset is <code>data/ny-temps.csv</code>
 
 ![](21.png)
 
