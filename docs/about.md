@@ -1,8 +1,8 @@
 ---
 
-title: About
+title: Resume
 permalink: /about
 
 ---
 
-This is a longer about me page
+* [Resume](https://github.com/yuqingliu19/Data-Studio-Projects/blob/master/Yuqing%20Liu.pdf)
