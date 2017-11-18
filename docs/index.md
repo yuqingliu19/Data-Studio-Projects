@@ -9,3 +9,5 @@
 This is my site of projects for the [Lede Program](http://ledeprogram.com)
 
 * [One-Child policy]({{ site.url }}/Child_policy): Here is a project about China's one-child policy
+
+* [Wildfire]({{ site.url }}/wildfire): Here is a project about wildfire since 1984 in US.
