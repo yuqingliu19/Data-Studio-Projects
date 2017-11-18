@@ -7,7 +7,10 @@
 ## Hi, I'm Yuqing Liu
 
 I am currently a data journalism student at the [Lede Program](http://ledeprogram.com), Columbia Journalism School. 
-I know some coding, some data, and some journalism.
+
+I know some coding and some data. Here are some projects and works during the program.
+
+
 
 * [One-Child policy]({{ site.url }}/Child_policy): Here is a project about China's one-child policy. 
   
