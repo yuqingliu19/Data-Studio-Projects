@@ -20,11 +20,11 @@ This is my site of projects for the [Lede Program](http://ledeprogram.com)
   
   Tools: d3.js
 
-* [Temperature around the world]({{ site.url }}/D3_2): Radials and more small multiples
+* [Temperature in big cities]({{ site.url }}/D3_2): Radials and more small multiples
 
   Tools: d3.js
 
-* [stock price and drug overdose deaths]({{ site.url }}/D3_3)
+* [Stock price and Drug overdose deaths]({{ site.url }}/D3_3)
 
   Tools: d3.js
 
